@@ -1,3 +1,7 @@
+# Dataset
+covtype.data
+covtype.info
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
